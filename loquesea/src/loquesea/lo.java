@@ -40,4 +40,7 @@ public class lo {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
+	
+	
+	
 }
